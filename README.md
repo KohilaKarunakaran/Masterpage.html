@@ -9,7 +9,7 @@
 </head>
 <body>
 </body>
-<footer>
+<header>
 <h1>Groceries</h1>
-</footer>
+</header>
 </html>
