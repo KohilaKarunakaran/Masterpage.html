@@ -10,6 +10,6 @@
 <body>
 </body>
 <footer>
-<h1>Zombies are coming</h1>
+<h1>Groceries</h1>
 </footer>
 </html>
