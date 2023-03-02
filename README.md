@@ -1,7 +1,7 @@
 <DOCTYPE html>
 <html lang="en">
 <head>
-<titl>My own page</title>
+<title>My own page</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="keywords" content="Zombie, apocalypse, End of Humanity, Doomsday">
