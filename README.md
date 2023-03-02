@@ -7,8 +7,6 @@
 <meta name="keywords" content="curry, chilly, pepper, cardamom, anise">
 <meta name="zombie.css" rel="stylesheet">
 </head>
-<body>
-</body>
 <header>
 <h1>Groceries</h1>
 </header>
